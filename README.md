@@ -1,7 +1,7 @@
 ## Hii guys 👋
 - I'm studant and researcher.
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMendonc4)](https://github.com/LuanaMendonc4/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaMendonc4&layout=compact)
 
 
 <!--
