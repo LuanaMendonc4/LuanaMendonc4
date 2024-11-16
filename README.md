@@ -1,7 +1,7 @@
 ## Hii 👋
 - I'm a student of Science and Technology at UFRN.
 - 👩🏽‍💻 I'm interested in data analysis.
-- 🧠 I'm a neuroscience enthusiast
+- 🧠 A neuroscience enthusiast
 - 🐶 And I love dogs and outdoor activities.
 
 <!--
