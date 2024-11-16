@@ -1,6 +1,6 @@
 ## Hii, I'm Luana Mendonça 👋
 - 👩🏽‍💻 I'm interested in data analysis.
-- 🧠 A neuroscience enthusiast
+- 🧠 A neuroscience enthusiast.
 - 🐶 And I love dogs and outdoor activities.
 
 <!--
