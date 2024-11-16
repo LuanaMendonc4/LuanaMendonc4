@@ -1,5 +1,5 @@
 ## Hii, I'm Luana Mendonça 👋
-- 👩🏽‍💻 I'm interested in data analysis.
+- 👩🏽‍💻 I'm interested in data analysis, artificial intelligence and signal processing (EMG).
 - 🧠 A neuroscience enthusiast.
 - 🐶 And I love dogs and outdoor activities.
 
