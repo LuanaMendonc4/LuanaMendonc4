@@ -1,4 +1,4 @@
-## Hii 👋
+## Hii, I'm Luana Mendonça 👋
 - I'm a student of Science and Technology at UFRN.
 - 👩🏽‍💻 I'm interested in data analysis.
 - 🧠 A neuroscience enthusiast
