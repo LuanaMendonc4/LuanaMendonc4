@@ -1,7 +1,8 @@
-## Olá 👋
-- I'm studant and ...
-- 
-
+## Hii 👋
+- I'm a student of Science and Technology at UFRN.
+- 👩🏽‍💻 I'm interested in data analysis.
+- 🧠 I'm a neuroscience enthusiast
+- 🐶 And I love dogs and outdoor activities.
 
 <!--
 **LuanaMendonc4/LuanaMendonc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
